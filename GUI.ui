@@ -757,17 +757,17 @@ p, li { white-space: pre-wrap; }
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>290</x>
-     <y>40</y>
-     <width>341</width>
-     <height>91</height>
+     <x>300</x>
+     <y>50</y>
+     <width>321</width>
+     <height>71</height>
     </rect>
    </property>
    <property name="text">
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap resource="Resources/Resources.qrc">:/Data/Pyramakerz Logo transparent.png</pixmap>
+    <pixmap>OrangeLogo.png</pixmap>
    </property>
    <property name="scaledContents">
     <bool>true</bool>
