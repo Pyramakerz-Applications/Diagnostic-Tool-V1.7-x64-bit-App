@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="Data">
+    <file>xlsx.png</file>
+    <file>settings.png</file>
+    <file>Valid.png</file>
+    <file>invalid.png</file>
+    <file>led-matrix.jpg</file>
+    <file>RFID tag.png</file>
+    <file>Bluetooth.png</file>
+    <file>Connect.png</file>
+    <file>Pyramakerz Logo transparent.png</file>
+    <file>buzzer.png</file>
+    <file>joystick.png</file>
+    <file>LDR.png</file>
+    <file>LED.png</file>
+    <file>ALED.jpg</file>
+    <file>Water_pump.png</file>
+    <file>DC_Motor.png</file>
+    <file>IMU.png</file>
+    <file>Ultrasonic sensor.png</file>
+    <file>Icon.png</file>
+    <file>pyramakerzX.png</file>
+    <file>RFID.jpg</file>
+    <file>Servo.png</file>
+  </qresource>
+</RCC>
